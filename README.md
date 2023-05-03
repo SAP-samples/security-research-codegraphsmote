@@ -1,5 +1,8 @@
 # CodeGraphSMOTE - Data Augmentation for Vulnerability Discovery
 
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/security-research-codegraphsmote)](https://api.reuse.software/info/github.com/SAP-samples/security-research-codegraphsmote)
+
+
 ## Description
 
 This repository contains the source code for our paper "CodeGraphSMOTE - Data Augmentation for Vulnerability Discovery", currently under review at [DBSec 23](https://www.dbsec2023.unimol.it/)
