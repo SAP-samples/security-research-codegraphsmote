@@ -77,7 +77,7 @@ From the commits, methods are extracted as vulnerable prior to the fix commit an
 All implementations of models, training and data processing are in `experiments/`. All other files are utility files to ease implementation of the scripts.
 
 ## How to obtain support
-[Create an issue](https://github.com/SAP-samples/security-reseearch-codegraphsmote/issues) in this repository if you find a bug or have questions about the content.
+[Create an issue](https://github.com/SAP-samples/security-research-codegraphsmote/issues) in this repository if you find a bug or have questions about the content.
  
 For additional support, [ask a question in SAP Community](https://answers.sap.com/questions/ask.html).
 
