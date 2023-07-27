@@ -5,7 +5,7 @@
 
 ## Description
 
-This repository contains the source code for our paper "CodeGraphSMOTE - Data Augmentation for Vulnerability Discovery", currently under review at [DBSec 23](https://www.dbsec2023.unimol.it/)
+This repository contains the source code for our paper [CodeGraphSMOTE - Data Augmentation for Vulnerability Discovery](https://link.springer.com/chapter/10.1007/978-3-031-37586-6_17)
 
 ## Requirements
 
